@@ -5,10 +5,9 @@
 | Label | Deskripsi |
 |------------|-----------|
 |Nama|Naufal Al Munawar|
-|Jurusan|Teknik Informatika|
-|Asal Kampus|Politeknik Negeri Indramayu|
-|Lulus|Oktober Mendatang|
-|No Whatsapp|+6289687840320|
+|Domisili|Purwakarta|
+|Posisi|Mobile Developer|
+|No Whatsapp|<a href="https://wa.me/+6289687840320">WhatsApp</a>|
 
 ## Projek Aplikasi dan Design
 
