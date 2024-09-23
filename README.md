@@ -1,16 +1,18 @@
-# login_screen
+# HOME TEST MOBILE DEVELOMENT
 
-A new Flutter project.
+## Profil
 
-## Getting Started
+| Label | Deskripsi |
+|------------|-----------|
+|Nama|Naufal Al Munawar|
+|Jurusan|Teknik Informatika|
+|Asal Kampus|Politeknik Negeri Indramayu|
+|Lulus|Oktober Mendatang|
+|No Whatsapp|+6289687840320|
 
-This project is a starting point for a Flutter application.
+## Projek Aplikasi dan Design
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Label | Url |
+|------------|-----------|
+|Aplikasi|Naufal Al Munawar|
+|Design|Teknik Informatika|
