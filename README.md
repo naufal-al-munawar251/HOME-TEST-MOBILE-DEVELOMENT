@@ -14,5 +14,5 @@
 
 | Label | Url |
 |------------|-----------|
-|Aplikasi|<a href="/">Download</a>|
-|Design|<a href="/">View</a>|
+|Aplikasi|<a href="https://github.com/naufal-al-munawar251/HOME-TEST-MOBILE-DEVELOMENT/blob/master/app-release.apk">Download</a>|
+|Design|<a href="https://github.com/naufal-al-munawar251/HOME-TEST-MOBILE-DEVELOMENT/blob/master/app-release.apk">View</a>|
