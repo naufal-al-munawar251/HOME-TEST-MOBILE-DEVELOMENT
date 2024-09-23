@@ -14,5 +14,5 @@
 
 | Label | Url |
 |------------|-----------|
-|Aplikasi|Naufal Al Munawar|
+|Aplikasi|<a href="/">Download</a>|
 |Design|Teknik Informatika|
