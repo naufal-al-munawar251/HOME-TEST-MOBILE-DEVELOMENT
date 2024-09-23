@@ -15,4 +15,4 @@
 | Label | Url |
 |------------|-----------|
 |Aplikasi|<a href="/">Download</a>|
-|Design|Teknik Informatika|
+|Design|<a href="/">View</a>|
