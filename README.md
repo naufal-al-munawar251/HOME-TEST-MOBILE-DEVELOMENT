@@ -15,4 +15,4 @@
 | Label | Url |
 |------------|-----------|
 |Aplikasi|<a href="https://github.com/naufal-al-munawar251/HOME-TEST-MOBILE-DEVELOMENT/blob/master/app-release.apk">Download</a>|
-|Design|<a href="https://github.com/naufal-al-munawar251/HOME-TEST-MOBILE-DEVELOMENT/blob/master/app-release.apk">View</a>|
+|Design|<a href="https://www.figma.com/design/oARVglEesJqPvVBphJFCQo/Untitled?node-id=0-1&m=dev&t=crH6TFVjSXViVlVQ-1">View</a>|
